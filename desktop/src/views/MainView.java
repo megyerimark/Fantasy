@@ -13,4 +13,7 @@ public class MainView {
     {
 
     }    }
+
+    public void printFantasy(ArrayList<models.Fantasy> fList) {
+    }
 }
