@@ -9,7 +9,7 @@ public class MainView {
     
     public void show(ArrayList<Fantasy>fatn){
         Fantasy[] fatns;
-        for (Fantasy fantasy: fatns )
+        // for (Fantasy fantasy:)
     {
 
     }    }
